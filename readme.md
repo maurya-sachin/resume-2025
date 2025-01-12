@@ -2,6 +2,10 @@
 
 This is the personal portfolio of Sachin Maurya, a frontend developer specializing in React.js, JavaScript, and performance optimization. The portfolio includes an overview of skills, experience, key projects, and contact information.
 
+## Live Preview
+
+- [Live](https://maurya-sachin.github.io/resume-2025/)
+
 ## Table of Contents
 
 - [Professional Summary](#professional-summary)
